@@ -1,0 +1,29 @@
+
+*{
+  background-color: black;
+}
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 3% 10%;
+  
+}
+
+.movieApp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.sidebar {
+    background: lightgrey;
+    height:100%;
+    position: fixed;
+    
+    overflow-y: auto;
+    
+}
