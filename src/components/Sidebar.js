@@ -5,7 +5,7 @@ import 'react-pro-sidebar/dist/css/styles.css';
 export default function SideBar(){
 const styles = {lineHeight:"2em",fontWeight:"600",backgroundColor:"#1A1B1C",width:"20%",marginTop:"4%",
     height:"100%",
-    position: "fixed",fontSize:"28px",letterSpacing:"0.1em",top:"5%",left:"0%"
+    position: "fixed",fontSize:"28px",letterSpacing:"0.1em",top:"3%",left:"0%"
 }
     return(
         <ProSidebar expand="lg"  >

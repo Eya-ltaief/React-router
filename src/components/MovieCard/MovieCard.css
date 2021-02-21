@@ -1,9 +1,11 @@
 .movieCard {
-  width: 15rem;
+  width: 16rem;
   background-color: black;
-  color: white;
-  margin: 1%;
-  border: 1px solid white;
+  color: black;
+  margin-left: 2%;
+  border: 1px solid none;
+  left: 10%;
+  margin-top: 2%;
 }
 
 .movieImg {
